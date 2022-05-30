@@ -1,7 +1,7 @@
 
 <h2 align="center"> Hi, I'm Piyush Bajaj 👋 <br/> </h2> 
 
-<p align="center"><img width=50% href="https://sm.ms/image/uvRpECekUBOLgKw" target="_blank"><img src="https://s2.loli.net/2022/05/27/uvRpECekUBOLgKw.jpg" alt="202205271753974.jpg"></p>
+<p align="center"><img src="https://s2.loli.net/2022/05/27/uvRpECekUBOLgKw.jpg" alt="202205271753974.jpg"></p>
 
 
 <p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
