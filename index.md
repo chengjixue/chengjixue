@@ -1,37 +1,107 @@
-## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chengjixue/chengjixue/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<h2 align="center"> Hi, I'm Piyush Bajaj 👋 <br/> </h2> 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p align="center"><img width=50% href="https://sm.ms/image/uvRpECekUBOLgKw" target="_blank"><img src="https://s2.loli.net/2022/05/27/uvRpECekUBOLgKw.jpg" alt="202205271753974.jpg"></p>
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<p align="center"> <samp>Hi, My name is Piyush Bajaj. I am a Computer Science B.Tech college student. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
+  
+  
+## Tech Stack :computer:
 
-```markdown
-Syntax highlighted code block
+<br>
+<table>
+<tbody>
+ <tr>
+<td align="center" width="20%">
+<span><b><center>ReactJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/ultraviolet/2x/react.png"> 
+</td>
 
-# Header 1
-## Header 2
-### Header 3
+<td align="center" width="20%">
+<span><b><center>Swift</center></b></span> 
+<img height=60px src="https://img.icons8.com/fluent/96/swift.png"> 
+</td>
 
-- Bulleted
-- List
+<td align="center" width="20%">
+<span><b><center>NodeJS</center></b></span> 
+<img height=60px src="https://img.icons8.com/color/2x/nodejs.png"> 
+</td>
+</tr>
 
-1. Numbered
-2. List
+<tr>
+<td align="center" width="20%">
+<span><b><center>MATLAB</center></b></span> 
+<img height=65px src="https://img.icons8.com/nolan/2x/matlab.png"> 
+</td>
 
-**Bold** and _Italic_ and `Code` text
+<td align="center" width="20%">
+<span><b><center>Git</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-glyphs/2x/github-2.png"> 
+</td>
 
-[Link](url) and ![Image](src)
-```
+<td align="center" width="20%">
+<span><b><center>Python</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/python.png"> 
+</td>
+</tr>
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+<tr>
+<td align="center" width="20%">
+<span><b><center>Bash</center></b></span> 
+<img height=65px src="https://img.icons8.com/bubbles/2x/console.png"> 
+</td>
 
-### Jekyll Themes
+<td align="center" width="20%">
+<span><b><center>C++</center></b></span> 
+<img height=65px src="https://isocpp.org/assets/images/cpp_logo.png"> 
+</td>
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chengjixue/chengjixue/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<td align="center" width="20%">
+<span><b><center>Flutter</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/flutter.png"> 
+</td>
+</tr>
+
+<tr>
+<td align="center" width="20%">
+<span><b><center>SQL</center></b></span> 
+<img height=65px src="https://img.icons8.com/ios-filled/2x/sql.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>JavaScript</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/javascript.png"> 
+</td>
+
+<td align="center" width="20%">
+<span><b><center>HTML</center></b></span> 
+<img height=65px src="https://img.icons8.com/color/2x/html-5.png"> 
+</td>
+</tr>
+
+</tbody>
+</table>
+
+____
+
+
+
+<h3 align="center"> Other Accounts 📫 </h3>
+<br />
+<p align="center">
+<a href="https://www.linkedin.com/in/piyushxbajaj/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://instagram.com/smrtdvlpr"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
+
+</p>
+
+____
+
+
+<p align="center">
+
+⭐️ [piyushxbajaj](https://github.com/piyushxbajaj)
+
+</p>
